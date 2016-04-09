@@ -1,2 +1,2 @@
 # git-training
-For git training for fullcreative interns
+For git training for Full Creative interns
